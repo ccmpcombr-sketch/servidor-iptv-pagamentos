@@ -148,27 +148,28 @@
   "pagamentos": {
     "1": {
       "nome": "1 mês(es)",
-      "valor": null,
+      "valor": 10,
       "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
       "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
     },
     "3": {
       "nome": "3 mês(es)",
-      "valor": null,
+      "valor": 30,
       "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
       "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
     },
     "6": {
       "nome": "6 mês(es)",
-      "valor": null,
+      "valor": 60,
       "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
       "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
     },
     "12": {
       "nome": "12 mês(es)",
-      "valor": null,
+      "valor": 120,
       "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
       "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
     }
-  }
+  },
+  "suporte": "https://wa.me/+5569993034364"
 }
