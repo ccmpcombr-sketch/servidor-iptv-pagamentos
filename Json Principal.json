@@ -1,0 +1,174 @@
+{
+  "logo": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/ic_launcher.png",
+  "servidores": [
+    {
+      "nome": "01-Vr-pro-1",
+      "url": "http://vrpro.fun:80"
+    },
+    {
+      "nome": "02-Vr-Pro-2",
+      "url": "https://vrpro.fun:443"
+    },
+    {
+      "nome": "03-Ouror",
+      "url": "http://ouror.fun:80"
+    },
+    {
+      "nome": "04-R-de-Todos-1",
+      "url": "http://rdetodos.fun:80"
+    },
+    {
+      "nome": "05-R-de-Todos-2",
+      "url": "http://rdetodos.sbs:80"
+    },
+    {
+      "nome": "06-Rzn-Lat",
+      "url": "http://rzn.lat:80"
+    },
+    {
+      "nome": "07-Ryzeen-Pro",
+      "url": "http://ryzeeng.pro"
+    },
+    {
+      "nome": "08-Ryzeen-Pro-Ds",
+      "url": "https://ryzeeng.pro"
+    }
+  ],
+  "capas_categorias": {
+    "aovivo": {
+      "nome": "Ao Vivo",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/ao%20vivo.PNG"
+    },
+    "filmes": {
+      "nome": "Filmes",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Capturar.PNG"
+    },
+    "series": {
+      "nome": "Series",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/series/Capturar.PNG"
+    },
+    "usuario": {
+      "nome": "Usuario",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/usuarios/Capturar.PNG"
+    }
+  },
+  "json_externos": {
+    "aovivo": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/ABERTOS.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Canais_Local/canais_local_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/FILMES%20E%20S%C3%89RIES.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/NOTICIAS.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/VARIEDADES.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/DOCUMENT%C3%81RIOS.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/DISCOVERY.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/HBO.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/INFANTIL.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/CINE%20SKY.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/HBO%20MAX.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/ESPORTES.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/DISNEY%2B.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/PREMIERE.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/ESPN.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/PARAMOUNT%2B.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/GOAT.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/NBA.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/ONE%20FOOTBALL.json"
+    ],
+    "filmes": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/acao_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/acao_02.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/acao_03.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/acao_04.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Animacao_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Animacao_02.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Aventura_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Cinema_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Comedia_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Comedia_02.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Comedia_03.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Comedia_04.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Comedia_05.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Crimes_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Drama_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Drama_02.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Drama_03.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Drama_04.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Drama_05.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Drama_06.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Dublagem%20Nao%20Oficial_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Especial%20De%20Natal_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Especial%20Infantil_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Esportes_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Fam%C3%ADlia_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Fantasia_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Faroeste_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Ficcao%20Cientifica_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Ficcao_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Guerra_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Lan%C3%A7amentos%202025_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Lan%C3%A7amentos%202026_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Marvel%20UCM_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Nacionais_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Oscar%202025)_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Religiosos_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Romance_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Romance_02.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Suspense_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Suspense_02.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Terror_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Terror_02.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Terror_03.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Terror_04.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/UHD%204K_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/UHD%204K_02.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/UHD%204K_03.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Stand%20Up%20Comedy_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Adulto%20Winter%20Jade_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Adultos%20Anal%20Vids_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Adultos%20Analtherapy_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Adultos%20Bella%20da%20Semana_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Adultos%20Brasilbimbos_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Adultos%20Brasileirinhas_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Adultos%20Brazzersexxtra_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Adultos%20Dirtyauditions_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Adultos%20Evil%20Angel_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Adultos%20Homossexual%20Masculino_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Adultos%20Nylonperv%20Com_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Adultos%20OnlyFans_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Adultos%20Teamskeetclassics_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Adultos%20Teamskeetx_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Adultos%20Tiny_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Adultos%20Trans_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Adultos%20Transexual_01.json"
+    ],
+    "series": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/AMC%20Plus_01.json"
+    ]
+  },
+  "pagamentos": {
+    "1": {
+      "nome": "1 mês(es)",
+      "valor": null,
+      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+    },
+    "3": {
+      "nome": "3 mês(es)",
+      "valor": null,
+      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+    },
+    "6": {
+      "nome": "6 mês(es)",
+      "valor": null,
+      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+    },
+    "12": {
+      "nome": "12 mês(es)",
+      "valor": null,
+      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+    }
+  }
+}
