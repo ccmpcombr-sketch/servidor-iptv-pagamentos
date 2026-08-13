@@ -37,11 +37,11 @@
   "capas_categorias": {
     "aovivo": {
       "nome": "Ao Vivo",
-      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/ao%20vivo.PNG"
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/Geral%20Canais.png"
     },
     "filmes": {
       "nome": "Filmes",
-      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Capturar.PNG"
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Geral%20Filmes.png"
     },
     "series": {
       "nome": "Series",
