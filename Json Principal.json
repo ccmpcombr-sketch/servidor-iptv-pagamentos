@@ -2,6 +2,10 @@
   "logo": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/ic_launcher.png",
   "servidores": [
     {
+      "nome": "00-R-de-Todos-1",
+      "url": "http://reidetodos.fun:80"
+    },
+    {
       "nome": "01-Vr-pro-1",
       "url": "http://vrpro.fun:80"
     },
