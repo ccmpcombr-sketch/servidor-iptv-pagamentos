@@ -2,39 +2,43 @@
   "logo": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/ic_launcher.png",
   "servidores": [
     {
-      "nome": "00-R-de-Todos-1",
+      "nome": "00-R-de-Todos-0",
       "url": "http://reidetodos.fun:80"
     },
     {
-      "nome": "01-Vr-pro-1",
-      "url": "http://vrpro.fun:80"
-    },
-    {
-      "nome": "02-Vr-Pro-2",
-      "url": "https://vrpro.fun:443"
-    },
-    {
-      "nome": "03-Ouror",
-      "url": "http://ouror.fun:80"
-    },
-    {
-      "nome": "04-R-de-Todos-1",
+      "nome": "01-R-de-Todos-1",
       "url": "http://rdetodos.fun:80"
     },
     {
-      "nome": "05-R-de-Todos-2",
+      "nome": "02-R-de-Todos-2",
       "url": "http://rdetodos.sbs:80"
     },
     {
-      "nome": "06-Rzn-Lat",
-      "url": "http://rzn.lat:80"
-    },
-    {
-      "nome": "07-Ryzeen-Pro",
+      "nome": "03-Ryzeen-Pro",
       "url": "http://ryzeeng.pro"
     },
     {
-      "nome": "08-Ryzeen-Pro-Ds",
+      "nome": "04-Vr-pro-1",
+      "url": "http://vrpro.fun:80"
+    },
+    {
+      "nome": "05-Vr-Pro-2",
+      "url": "https://vrpro.fun:443"
+    },
+    {
+      "nome": "06-Dns-Mult",
+      "url": "http://dnsmult.fun"
+    },
+    {
+      "nome": "07-Assis-Plus",
+      "url": "https://assisplus.shop:443"
+    },
+    {
+      "nome": "08-Ouror",
+      "url": "http://ouror.fun:80"
+    },
+    {
+      "nome": "09-Ryzeen-Pro-Ds",
       "url": "https://ryzeeng.pro"
     }
   ],
