@@ -41,6 +41,14 @@
     {
       "nome": "CCMP PLUS 10",
       "url": "http://209.14.88.175:80"
+    },
+    {
+      "nome": "CCMP PLUS 11",
+      "url": "http://209.14.88.176:80"
+    },
+    {
+      "nome": "CCMP PLUS 12",
+      "url": "http://178.92.162.16:80"
     }
   ],
   "capas_categorias": {
