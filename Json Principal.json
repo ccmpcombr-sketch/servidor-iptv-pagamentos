@@ -103,6 +103,24 @@
       "url": "http://reservaserve.org.uk"
     }
   ],
+  "capas_categorias": {
+    "aovivo": {
+      "nome": "Ao Vivo",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/Geral%20Canais.png"
+    },
+    "filmes": {
+      "nome": "Filmes",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Geral%20Filmes.png"
+    },
+    "series": {
+      "nome": "Series",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/series/Capturar.PNG"
+    },
+    "usuario": {
+      "nome": "Usuario",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/usuarios/Capturar.PNG"
+    }
+  },
   "json_externos": {
     "aovivo": [
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/ABERTOS.json",
