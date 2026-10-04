@@ -53,56 +53,6 @@
       }
     ]
   },
-  "servidores": [
-    {
-      "nome": "CCMP PLUS 01",
-      "url": "http://rzen3840.online"
-    },
-    {
-      "nome": "CCMP PLUS 02",
-      "url": "http://cdnplaynewcast.fun"
-    },
-    {
-      "nome": "CCMP PLUS 03",
-      "url": "http://cdnserves.bid"
-    },
-    {
-      "nome": "CCMP PLUS 04",
-      "url": "http://rzen3840.site"
-    },
-    {
-      "nome": "CCMP PLUS 05",
-      "url": "http://reservaserve.org.uk"
-    },
-    {
-      "nome": "CCMP PLUS 06",
-      "url": "http://209.14.85.39:80"
-    },
-    {
-      "nome": "CCMP PLUS 07",
-      "url": "http://38.100.203.116:80"
-    },
-    {
-      "nome": "CCMP PLUS 08",
-      "url": "http://190.102.41.156:80"
-    },
-    {
-      "nome": "CCMP PLUS 09",
-      "url": "http://209.14.88.175:80"
-    },
-    {
-      "nome": "CCMP PLUS 10",
-      "url": "http://209.14.88.176:80"
-    },
-    {
-      "nome": "CCMP PLUS 11",
-      "url": "http://178.92.162.16:80"
-    },
-    {
-      "nome": "CCMP PLUS 12",
-      "url": "http://reservaserve.org.uk"
-    }
-  ],
   "capas_categorias": {
     "aovivo": {
       "nome": "Ao Vivo",
@@ -289,8 +239,8 @@
   },
   "fontes_chaves": [
     {
-      "fonte": "4986585849162533140+094904923963542916",
-      "chave": "8646196432054+294853199950930843361296"
+      "fonte-01": "4986585849162533140+094904923963542916",
+      "chave-01": "8646196432054+294853199950930843361296"
     }
   ],
   "Login": {
