@@ -1,58 +1,56 @@
 {
   "logo": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/ic_launcher.png",
   "player_background": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/usuarios/Fundo%20gif.gif",
-  "servidores_blocos": {
-    "CCMP-PLUS-01": [
-      {
-        "nome": "CCMP PLUS 01",
-        "url": "http://rzen3840.online"
-      },
-      {
-        "nome": "CCMP PLUS 02",
-        "url": "http://cdnplaynewcast.fun"
-      },
-      {
-        "nome": "CCMP PLUS 03",
-        "url": "http://cdnserves.bid"
-      },
-      {
-        "nome": "CCMP PLUS 04",
-        "url": "http://rzen3840.site"
-      },
-      {
-        "nome": "CCMP PLUS 05",
-        "url": "http://reservaserve.org.uk"
-      },
-      {
-        "nome": "CCMP PLUS 06",
-        "url": "http://209.14.85.39:80"
-      },
-      {
-        "nome": "CCMP PLUS 07",
-        "url": "http://38.100.203.116:80"
-      },
-      {
-        "nome": "CCMP PLUS 08",
-        "url": "http://190.102.41.156:80"
-      },
-      {
-        "nome": "CCMP PLUS 09",
-        "url": "http://209.14.88.175:80"
-      },
-      {
-        "nome": "CCMP PLUS 10",
-        "url": "http://209.14.88.176:80"
-      },
-      {
-        "nome": "CCMP PLUS 11",
-        "url": "http://178.92.162.16:80"
-      },
-      {
-        "nome": "CCMP PLUS 12",
-        "url": "http://reservaserve.org.uk"
-      }
-    ]
-  },
+  "servidores": [
+    {
+      "nome": "CCMP PLUS 01",
+      "url": "http://rzen3840.online"
+    },
+    {
+      "nome": "CCMP PLUS 02",
+      "url": "http://cdnplaynewcast.fun"
+    },
+    {
+      "nome": "CCMP PLUS 03",
+      "url": "http://cdnserves.bid"
+    },
+    {
+      "nome": "CCMP PLUS 04",
+      "url": "http://rzen3840.site"
+    },
+    {
+      "nome": "CCMP PLUS 05",
+      "url": "http://cdnserves.bid"
+    },
+    {
+      "nome": "CCMP PLUS 06",
+      "url": "http://reservaserve.org.uk"
+    },
+    {
+      "nome": "CCMP PLUS 07",
+      "url": "http://209.14.85.39:80"
+    },
+    {
+      "nome": "CCMP PLUS 08",
+      "url": "http://38.100.203.116:80"
+    },
+    {
+      "nome": "CCMP PLUS 09",
+      "url": "http://190.102.41.156:80"
+    },
+    {
+      "nome": "CCMP PLUS 10",
+      "url": "http://209.14.88.175:80"
+    },
+    {
+      "nome": "CCMP PLUS 11",
+      "url": "http://209.14.88.176:80"
+    },
+    {
+      "nome": "CCMP PLUS 12",
+      "url": "http://178.92.162.16:80"
+    }
+  ],
   "capas_categorias": {
     "aovivo": {
       "nome": "Ao Vivo",
@@ -115,6 +113,7 @@
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Drama_05.json",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Drama_06.json",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Dublagem%20Nao%20Oficial_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Especial%20De%20Natal_01.json",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Especial%20Infantil_01.json",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Esportes_01.json",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Fam%C3%ADlia_01.json",
@@ -237,12 +236,6 @@
       "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
     }
   },
-  "fontes_chaves": [
-    {
-      "fonte-01": "4986585849162533140+094904923963542916",
-      "chave-01": "8646196432054+294853199950930843361296"
-    }
-  ],
   "Login": {
     "fonte": "4986585849162533140+094904923963542916",
     "chave": "8646196432054+294853199950930843361296"
