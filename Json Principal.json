@@ -190,7 +190,6 @@
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20HBO%20Max%2006.json",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20HBO%20Max%2007.json",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20HBO%20Max%2008.json",
-      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Lionsgate%2001.json",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Netflix%2001.json",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Netflix%2002.json",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Netflix%2003.json",
@@ -220,7 +219,19 @@
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Novelas%2002.json",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Novelas%2003.json",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Novelas%2004.json",
-      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Novelas%20Turcas%2001.json"
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Novelas%20Turcas%2001.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Outras%20Produtoras%2001.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Outras%20Produtoras%2002.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Outras%20Produtoras%2003.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Outras%20Produtoras%2004.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Outras%20Produtoras%2005.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Outras%20Produtoras%2006.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Outras%20Produtoras%2007.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Outras%20Produtoras%2008.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Outras%20Produtoras%2009.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Outras%20Produtoras%2010.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Outras%20Produtoras%2011.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Outras%20Produtoras%2012.json"
     ]
   },
   "pagamentos": {
