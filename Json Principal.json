@@ -376,15 +376,9 @@
   },
   "lancamentos_recentes": [
     {
-      "categoria": "filmes",
-      "tipo": "album",
-      "nome": "♦️ Ação ✔️",
-      "album": "♦️ Ação ✔️"
-    },
-    {
       "categoria": "series",
-      "tipo": "subalbum",
-      "nome": "Channel Zero",
+      "tipo": "filme",
+      "nome": "Channel Zero Episódio 1",
       "album": "♦️ AMC Plus",
       "subAlbum": "Channel Zero"
     }
