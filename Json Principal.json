@@ -393,6 +393,13 @@
       "tipo": "canal",
       "nome": "SBT SP",
       "album": "CANAIS ABERTOS"
+    },
+    {
+      "categoria": "series",
+      "tipo": "subalbum",
+      "nome": "♦️ Apple TV+",
+      "album": "♦️ Apple TV+",
+      "subAlbum": "12 Monkeys"
     }
   ],
   "pagamentos": {
