@@ -88,7 +88,8 @@
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/ESPN.json",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/PARAMOUNT%2B.json",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/GOAT.json",
-      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/NBA.json"
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/NBA.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Ao%20Vivo/ONE%20FOOTBALL.json"
     ],
     "filmes": [
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/acao_01.json",
@@ -143,7 +144,8 @@
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/UHD%204K_03.json",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/UHD%204K_04.json",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Lan%C3%A7amentos%202026_01.json",
-      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Stand%20Up%20Comedy_01.json"
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/Stand%20Up%20Comedy_01.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Filmes/ReelsShorts_01.json"
     ],
     "series": [
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20AMC%20Plus.json",
