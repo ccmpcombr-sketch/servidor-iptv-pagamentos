@@ -378,9 +378,9 @@
     {
       "categoria": "series",
       "tipo": "capitulo",
-      "nome": "Channel Zero Episódio 1",
-      "album": "♦️ AMC Plus",
-      "subAlbum": "Channel Zero"
+      "nome": "12 Monkeys Episódio 1",
+      "album": "♦️ Apple TV+",
+      "subAlbum": "12 Monkeys"
     },
     {
       "categoria": "filmes",
@@ -396,10 +396,10 @@
     },
     {
       "categoria": "series",
-      "tipo": "subalbum",
-      "nome": "♦️ Apple TV+",
-      "album": "♦️ Apple TV+",
-      "subAlbum": "12 Monkeys"
+      "tipo": "capitulo",
+      "nome": "Channel Zero Episódio 1",
+      "album": "♦️ AMC Plus",
+      "subAlbum": "Channel Zero"
     }
   ],
   "pagamentos": {
