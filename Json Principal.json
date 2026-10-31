@@ -372,36 +372,18 @@
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Star%2B%2002.json",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Star%2B%2003.json",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Universal%2001.json"
+    ],
+    "lancamentos": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Atualiza%C3%A7%C3%B5es/Lan%C3%A7amentos.json"
     ]
   },
-  "lancamentos_recentes": [
-    {
-      "categoria": "series",
-      "tipo": "capitulo",
-      "nome": "12 Monkeys Episódio 1",
-      "album": "♦️ Apple TV+",
-      "subAlbum": "12 Monkeys"
-    },
-    {
-      "categoria": "filmes",
-      "tipo": "filme",
-      "nome": "$30 (1999) (2026)",
-      "album": "♦️ Ação ✔️"
-    },
-    {
-      "categoria": "aovivo",
-      "tipo": "canal",
-      "nome": "SBT SP",
-      "album": "CANAIS ABERTOS"
-    },
-    {
-      "categoria": "series",
-      "tipo": "capitulo",
-      "nome": "Channel Zero Episódio 1",
-      "album": "♦️ AMC Plus",
-      "subAlbum": "Channel Zero"
-    }
-  ],
+  "atualizacao_app": {
+    "url": "ccmp.com.br@gmail.com",
+    "versao": "3.0.0",
+    "notas": "um teste para ver se da certo"
+  },
+  "update_url": "ccmp.com.br@gmail.com",
+  "versao_app": "3.0.0",
   "pagamentos": {
     "1": {
       "nome": "1 mês(es)",
