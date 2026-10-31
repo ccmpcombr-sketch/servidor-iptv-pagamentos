@@ -374,7 +374,8 @@
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Series/%E2%99%A6%EF%B8%8F%20Universal%2001.json"
     ],
     "lancamentos": [
-      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Atualiza%C3%A7%C3%B5es/Lan%C3%A7amentos.json"
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Atualiza%C3%A7%C3%B5es/Lan%C3%A7amentos.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Atualiza%C3%A7%C3%B5es/Novidades.json"
     ]
   },
   "atualizacao_app": {
