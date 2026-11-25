@@ -376,75 +376,75 @@
   "pagamentos": {
     "1": {
       "nome": "1 mês(es)",
-      "valor": 10,
-      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
-      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+      "valor": 15,
+      "pixKey": "00020126360014br.gov.bcb.pix0114+5569993068904520400005303986540515.005802BR5921MARIZA AVILA PELENTIR6015PRESIDENTE MEDI62070503***630438DA",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv-pagamentos/refs/heads/main/QR-Cod-Guilherme/1%C2%B0%20Um%20M%C3%AAs.png"
     },
     "2": {
       "nome": "2 mês(es)",
-      "valor": 20,
-      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
-      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+      "valor": 30,
+      "pixKey": "00020126360014br.gov.bcb.pix0114+5569993068904520400005303986540530.005802BR5921MARIZA AVILA PELENTIR6015PRESIDENTE MEDI62070503***630423CA",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv-pagamentos/refs/heads/main/QR-Cod-Guilherme/2%C2%B0%20Dois%20Meses.png"
     },
     "3": {
       "nome": "3 mês(es)",
-      "valor": 30,
-      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
-      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+      "valor": 45,
+      "pixKey": "00020126360014br.gov.bcb.pix0114+5569993068904520400005303986540545.005802BR5921MARIZA AVILA PELENTIR6015PRESIDENTE MEDI62070503***63048BC5",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv-pagamentos/refs/heads/main/QR-Cod-Guilherme/3%C2%B0%20Tr%C3%AAs%20Meses.png"
     },
     "4": {
       "nome": "4 mês(es)",
-      "valor": 40,
-      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
-      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+      "valor": 60,
+      "pixKey": "00020126360014br.gov.bcb.pix0114+5569993068904520400005303986540560.005802BR5921MARIZA AVILA PELENTIR6015PRESIDENTE MEDI62070503***630490D5",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv-pagamentos/refs/heads/main/QR-Cod-Guilherme/4%C2%B0%20Quatro%20Meses.png"
     },
     "5": {
       "nome": "5 mês(es)",
-      "valor": 50,
-      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
-      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+      "valor": 75,
+      "pixKey": "00020126360014br.gov.bcb.pix0114+5569993068904520400005303986540575.005802BR5921MARIZA AVILA PELENTIR6015PRESIDENTE MEDI62070503***6304152F",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv-pagamentos/refs/heads/main/QR-Cod-Guilherme/5%C2%B0%20Cinco%20Meses.png"
     },
     "6": {
       "nome": "6 mês(es)",
-      "valor": 60,
-      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
-      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+      "valor": 90,
+      "pixKey": "00020126360014br.gov.bcb.pix0114+5569993068904520400005303986540590.005802BR5921MARIZA AVILA PELENTIR6015PRESIDENTE MEDI62070503***630455D5",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv-pagamentos/refs/heads/main/QR-Cod-Guilherme/6%C2%B0%20Seis%20Meses.png"
     },
     "7": {
       "nome": "7 mês(es)",
-      "valor": 70,
-      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
-      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+      "valor": 105,
+      "pixKey": "00020126360014br.gov.bcb.pix0114+55699930689045204000053039865406105.005802BR5921MARIZA AVILA PELENTIR6015PRESIDENTE MEDI62070503***63048AA1",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv-pagamentos/refs/heads/main/QR-Cod-Guilherme/7%C2%B0%20Sete%20Meses.png"
     },
     "8": {
       "nome": "8 mês(es)",
-      "valor": 80,
-      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
-      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+      "valor": 120,
+      "pixKey": "00020126360014br.gov.bcb.pix0114+55699930689045204000053039865406120.005802BR5921MARIZA AVILA PELENTIR6015PRESIDENTE MEDI62070503***630491B1",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv-pagamentos/refs/heads/main/QR-Cod-Guilherme/8%C2%B0%20Oito%20Meses.png"
     },
     "9": {
       "nome": "9 mês(es)",
-      "valor": 90,
-      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
-      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+      "valor": 135,
+      "pixKey": "00020126360014br.gov.bcb.pix0114+55699930689045204000053039865406135.005802BR5921MARIZA AVILA PELENTIR6015PRESIDENTE MEDI62070503***6304144B",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv-pagamentos/refs/heads/main/QR-Cod-Guilherme/9%C2%B0%20Nove%20Meses.png"
     },
     "10": {
       "nome": "10 mês(es)",
-      "valor": 100,
-      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
-      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+      "valor": 150,
+      "pixKey": "00020126360014br.gov.bcb.pix0114+55699930689045204000053039865406150.005802BR5921MARIZA AVILA PELENTIR6015PRESIDENTE MEDI62070503***6304C9E2",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv-pagamentos/refs/heads/main/QR-Cod-Guilherme/10%C2%B0%20Dez%20Meses.png"
     },
     "11": {
       "nome": "11 mês(es)",
-      "valor": 110,
-      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
-      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+      "valor": 165,
+      "pixKey": "00020126360014br.gov.bcb.pix0114+55699930689045204000053039865406165.005802BR5921MARIZA AVILA PELENTIR6015PRESIDENTE MEDI62070503***6304A754",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv-pagamentos/refs/heads/main/QR-Cod-Guilherme/11%C2%B0%20Onze%20Meses.png"
     },
     "12": {
       "nome": "12 mês(es)",
-      "valor": 120,
-      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
-      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+      "valor": 180,
+      "pixKey": "00020126360014br.gov.bcb.pix0114+55699930689045204000053039865406180.005802BR5921MARIZA AVILA PELENTIR6015PRESIDENTE MEDI62070503***6304E7AE",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv-pagamentos/refs/heads/main/QR-Cod-Guilherme/12%C2%B0%20Doze%20Meses.png"
     }
   },
   "Login": {
