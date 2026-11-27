@@ -57,11 +57,10 @@
     ]
   },
   "lancamentos": [
-      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Atualiza%C3%A7%C3%B5es/Lan%C3%A7amentos.json",
-      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Atualiza%C3%A7%C3%B5es/Novidades.json",
-      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Atualiza%C3%A7%C3%B5es/Recomendado.json"
-    ]
-  },
+    "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Atualiza%C3%A7%C3%B5es/Lan%C3%A7amentos.json",
+    "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Atualiza%C3%A7%C3%B5es/Novidades.json",
+    "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Atualiza%C3%A7%C3%B5es/Recomendado.json"
+  ],
   "pagamentos": {
     "1": {
       "nome": "1 mês(es)",
