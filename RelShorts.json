@@ -57,9 +57,7 @@
     ]
   },
   "lancamentos": [
-    "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Atualiza%C3%A7%C3%B5es/Lan%C3%A7amentos.json",
-    "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Atualiza%C3%A7%C3%B5es/Novidades.json",
-    "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Atualiza%C3%A7%C3%B5es/Recomendado.json"
+    "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv-pagamentos/refs/heads/main/Atualiza%C3%A7%C3%B5es-RelShorts/Lan%C3%A7amentos"
   ],
   "pagamentos": {
     "1": {
