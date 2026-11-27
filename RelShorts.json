@@ -57,7 +57,8 @@
     ]
   },
   "lancamentos": [
-    "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv-pagamentos/refs/heads/main/Atualiza%C3%A7%C3%B5es-RelShorts/Lan%C3%A7amentos"
+    "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv-pagamentos/refs/heads/main/Atualiza%C3%A7%C3%B5es-RelShorts/Lan%C3%A7amentos.json",
+    "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv-pagamentos/refs/heads/main/Atualiza%C3%A7%C3%B5es-RelShorts/Novidades.json"
   ],
   "pagamentos": {
     "1": {
