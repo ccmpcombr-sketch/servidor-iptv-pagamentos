@@ -51,16 +51,43 @@
       "url": "http://178.92.162.16:80"
     }
   ],
+  "capas_categorias": {
+    "aovivo": {
+      "nome": "Ao Vivo",
+      "capa": ""
+    },
+    "filmes": {
+      "nome": "Filmes",
+      "capa": ""
+    },
+    "series": {
+      "nome": "",
+      "capa": ""
+    },
+    "usuario": {
+      "nome": "Usuario",
+      "capa": ""
+    }
+  },
   "json_externos": {
-    "relshorts": [
-      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv-A/refs/heads/main/Filmes/%E2%AD%90%20ReelsShorts/ReelsShorts_01.json",    
-  ],
-  "lancamentos": [
+    "aovivo": [],
+    "filmes": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv-pagamentos/refs/heads/main/RelShorts.json"
+    ],
+    "series": [],
+    "lancamentos": [
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Atualiza%C3%A7%C3%B5es/Lan%C3%A7amentos.json",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Atualiza%C3%A7%C3%B5es/Novidades.json",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Atualiza%C3%A7%C3%B5es/Recomendado.json"
     ]
   },
+  "atualizacao_app": {
+    "url": "",
+    "versao": "",
+    "notas": ""
+  },
+  "update_url": "",
+  "versao_app": "",
   "pagamentos": {
     "1": {
       "nome": "1 mês(es)",
