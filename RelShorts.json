@@ -1,1 +1,143 @@
-redame
+{
+  "logo": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/ic_launcher.png",
+  "player_background": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/usuarios/Fundo%20gif.gif",
+  "servidores": [
+    {
+      "nome": "CCMP + 01",
+      "url": "http://rzen3840.online"
+    },
+    {
+      "nome": "CCMP + 02",
+      "url": "http://cdnplaynewcast.fun"
+    },
+    {
+      "nome": "CCMP + 03",
+      "url": "http://cdnserves.bid"
+    },
+    {
+      "nome": "CCMP + 04",
+      "url": "http://rzen3840.site"
+    },
+    {
+      "nome": "CCMP + 05",
+      "url": "http://cdnserves.bid"
+    },
+    {
+      "nome": "CCMP + 06",
+      "url": "http://reservaserve.org.uk"
+    },
+    {
+      "nome": "CCMP + 07",
+      "url": "http://209.14.85.39:80"
+    },
+    {
+      "nome": "CCMP + 08",
+      "url": "http://38.100.203.116:80"
+    },
+    {
+      "nome": "CCMP + 09",
+      "url": "http://190.102.41.156:80"
+    },
+    {
+      "nome": "CCMP + 10",
+      "url": "http://209.14.88.175:80"
+    },
+    {
+      "nome": "CCMP + 11",
+      "url": "http://209.14.88.176:80"
+    },
+    {
+      "nome": "CCMP + 12",
+      "url": "http://178.92.162.16:80"
+    }
+  ],
+  "json_externos": {
+    "relshorts": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv-A/refs/heads/main/Filmes/%E2%AD%90%20ReelsShorts/ReelsShorts_01.json",    
+  ],
+  "lancamentos": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Atualiza%C3%A7%C3%B5es/Lan%C3%A7amentos.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Atualiza%C3%A7%C3%B5es/Novidades.json",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/servidor-iptv/refs/heads/main/Atualiza%C3%A7%C3%B5es/Recomendado.json"
+    ]
+  },
+  "pagamentos": {
+    "1": {
+      "nome": "1 mês(es)",
+      "valor": 10,
+      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+    },
+    "2": {
+      "nome": "2 mês(es)",
+      "valor": 20,
+      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+    },
+    "3": {
+      "nome": "3 mês(es)",
+      "valor": 30,
+      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+    },
+    "4": {
+      "nome": "4 mês(es)",
+      "valor": 40,
+      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+    },
+    "5": {
+      "nome": "5 mês(es)",
+      "valor": 50,
+      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+    },
+    "6": {
+      "nome": "6 mês(es)",
+      "valor": 60,
+      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+    },
+    "7": {
+      "nome": "7 mês(es)",
+      "valor": 70,
+      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+    },
+    "8": {
+      "nome": "8 mês(es)",
+      "valor": 80,
+      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+    },
+    "9": {
+      "nome": "9 mês(es)",
+      "valor": 90,
+      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+    },
+    "10": {
+      "nome": "10 mês(es)",
+      "valor": 100,
+      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+    },
+    "11": {
+      "nome": "11 mês(es)",
+      "valor": 110,
+      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+    },
+    "12": {
+      "nome": "12 mês(es)",
+      "valor": 120,
+      "pixKey": "00020126430014br.gov.bcb.pix0121ccmp.com.br@gmail.com520400005303986540510.005802BR5907TV CCMP6009Sao Paulo62240520daqr297156236824057163047BB0",
+      "qrCode": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/qr%20code/QR%20Code.png"
+    }
+  },
+  "Login": {
+    "fonte": "4986585849162533140+094904923963542916",
+    "chave": "8646196432054+294853199950930843361296"
+  },
+  "suporte": "https://wa.me/+5569993034364"
+}
